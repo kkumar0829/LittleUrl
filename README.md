@@ -21,14 +21,6 @@ This project help user to get short Url, when they have long url, which is diffi
 ```http
   GET search/<str:search_string>
 ```
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
 
 ## Demo
 

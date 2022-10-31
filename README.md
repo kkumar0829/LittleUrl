@@ -32,7 +32,7 @@ To deploy this project run
 
 ## Demo
 
-Please find herkou URL -> 
+Please find herkou URL -> https://littleurldemo.herokuapp.com/
 
 
 ## 🚀 About Me

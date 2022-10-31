@@ -1,0 +1,2 @@
+BASE_SHORTNER_URL = "http://localhost:8000/"
+LONG_NUMBER_ID = 10000000
